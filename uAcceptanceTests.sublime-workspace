@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Source/OpenSource/uAcceptanceTests",
+		"/C/Source/OpenSource/uAcceptanceTests/content",
+		"/C/Source/OpenSource/uAcceptanceTests/content/TestTools",
+		"/C/Source/OpenSource/uAcceptanceTests/content/TestTools/Db"
+	],
+	"file_history":
+	[
+		"/H/root/Documents/quicklist/АВТО-сервис.txt",
+		"/C/Users/vladimir.levchuk/Desktop/approved.eml",
+		"/H/root/Documents/quicklist/temp2",
+		"/H/root/Documents/quicklist/VN.DevEnv.HowTo.Steps.txt",
+		"/H/root/Documents/quicklist/temp.cs",
+		"/H/root/Documents/quicklist/temp1",
+		"/H/root/Documents/quicklist/timing.txt",
+		"/C/Source/OpenSource/uMigrations/.gitignore",
+		"/C/Source/Creuna/Basis/OSL-Creuna.Basis.Cms.Demo/Creuna.Basis.Cms.Demo.Presentation/App_Data/Search.log",
+		"/C/EPiServer/cms75/License.config",
+		"/C/EPiServer/Licenses/License.config",
+		"/C/EPiServer/Logs/Creuna.Relate.Demo/EPiServerErrors.log",
+		"/C/EPiServer/Logs/Creuna.Relate.Demo/EPi.Creuna.Relate.Demo.log",
+		"/C/Source/Creuna/Basis/OSL-Creuna.Basis.Cms.Demo/Creuna.Basis.Cms.Demo.Presentation/Views/List/Index.cshtml",
+		"/C/Source/Creuna/Basis/OSL-Creuna.Basis.Cms.Demo/Creuna.Basis.Cms.Demo.Presentation/Views/List/Index.cshtml.orig",
+		"/C/Users/vladimir.levchuk/Desktop/app.min.js",
+		"/C/Source/Creuna/OSL-Wwl.WebPresence/Development/src/Wwl.WebPresence.Presentation/Views/Shared/Basic/_Layout.cshtml",
+		"/C/Source/Creuna/OSL-Wwl.WebPresence/Development/src/Wwl.WebPresence.Presentation/html/media.html",
+		"/H/root/Downloads/Harvester-Staging-_2014-09-08_101250_2014-09-09_101250.log",
+		"/H/root/Downloads/Harvester-Staging-_2014-09-08_100815_2014-09-09_100815.log",
+		"/H/root/Downloads/Import-Service-Staging-_2014-09-08_095500_2014-09-09_095500.log/Import-Service-Staging-_2014-09-08_095500_2014-09-09_095500.log",
+		"/C/Users/vladimir.levchuk/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/vladimir.levchuk/AppData/Roaming/Sublime Text 3/Packages/User/Host Config.sublime-settings",
+		"/C/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/web.config",
+		"/C/Source/Creuna/OSL-Wwl.WebPresence/Development/src/Wwl.WebPresence.Presentation/Wwl.WebPresence.Presentation.csproj",
+		"/H/root/Documents/1.xml",
+		"/H/root/Downloads/Another Test Form.xml",
+		"/C/Source/Creuna/Basis/Creuna.Basis.Cms.Umbraco/Creuna.Basis.Cms.Umbraco/Creuna.Basis.Cms.Umbraco.csproj",
+		"/C/Source/Creuna/Basis/Creuna.Basis.Cms.Umbraco/Creuna.Basis.Cms.Umbraco.Presentation/Creuna.Basis.Cms.Umbraco.Presentation.csproj",
+		"/C/Source/Creuna/Basis/Creuna.Basis.Cms.Umbraco/Creuna.Basis.Cms.Umbraco.Tests/Class1.cs",
+		"/C/Source/Creuna/Basis/Creuna.Basis.Cms.Umbraco/nuget.config",
+		"/C/Source/Creuna/Basis/uSiteBuilder/source/Vega.USiteBuilder/Vega.USiteBuilder.nuspec",
+		"/H/root/Downloads/LocalGovStarterKit_3.3/15c3627b-9b3b-4871-9849-f9e2be81ccd3/DisplayChildPages.cshtml",
+		"/H/root/Downloads/LocalGovStarterKit_3.3/15c3627b-9b3b-4871-9849-f9e2be81ccd3/ContactLinks.cshtml",
+		"/H/root/Downloads/LocalGovStarterKit_3.3/15c3627b-9b3b-4871-9849-f9e2be81ccd3/RelatedLinks.cshtml",
+		"/C/Users/vladimir.levchuk/AppData/Roaming/Sublime Text 3/Packages/HostsEdit/SublimeHostsEdit.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nuget.co.",
+			"e938b8db-f204-42b6-8a4b-05f672dd9e0c",
+			"23",
+			";",
+			"LuceneConfiguration",
+			"IndexConfigurationRea",
+			"IndexConfiguration",
+			"Attribute",
+			"for product",
+			"imported",
+			"localhost",
+			"app.min.js",
+			"js",
+			"uSiteB",
+			"Util"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Source\\OpenSource\\uAcceptanceTests"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

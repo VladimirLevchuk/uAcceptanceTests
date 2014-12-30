@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>uAcceptanceTests</id>
+    <version>1.0.0</version>
+    <title>uAcceptanceTests</title>
+    <authors>Vladimir Levchuk, Creuna Kharkiv office</authors>
+    <owners>Vladimir Levchuk, Creuna Kharkiv office</owners>
+    <projectUrl>https://github.com/VladimirLevchuk/uAcceptanceTests</projectUrl>
+    <iconUrl>https://raw.github.com/VladimirLevchuk/EPiProperties/master/EPiProperties/images/creuna.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Set of sources to quickly create acceptance tests for Umbraco 7 projects. </description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright (C) 2014, Vladimir Levchuk</copyright>
+    <tags>Creuna Umbraco Umbraco7 NUnit</tags>
+
+    <dependencies>
+      <dependency id="NUnit" version="2.6.4" />
+      <dependency id="UmbracoCms.Core" version="7.2.1" />
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="content\config\404handlers.config" target="content\config" />
+    <file src="content\config\applications.config" target="content\config" />
+    <file src="content\config\BaseRestExtensions.config" target="content\config" />
+    <file src="content\config\ClientDependency.config" target="content\config" />
+    <file src="content\config\Dashboard.config" target="content\config" />
+    <file src="content\config\EmbeddedMedia.config" target="content\config" />
+    <file src="content\config\ExamineIndex.config" target="content\config" />
+    <file src="content\config\ExamineSettings.config" target="content\config" />
+    <file src="content\config\feedProxy.config" target="content\config" />
+    <file src="content\config\FileSystemProviders.config" target="content\config" />
+    <file src="content\config\log4net.config" target="content\config" />
+    <file src="content\config\metablogConfig.config" target="content\config" />
+    <file src="content\config\scripting.config" target="content\config" />
+    <file src="content\config\tinyMceConfig.config" target="content\config" />
+    <file src="content\config\trees.config" target="content\config" />
+    <file src="content\config\umbracoSettings.config" target="content\config" />
+    <file src="content\config\UrlRewriting.config" target="content\config" />
+
+    <file src="content\TestTools\TestApplication.cs.pp" target="content\TestTools" />
+    <file src="content\TestTools\TestBootManager.cs.pp" target="content\TestTools" />
+    <file src="content\TestTools\TestEnvironment.cs.pp" target="content\TestTools" />
+    <file src="content\TestTools\Db\DbForeignKey.cs.pp" target="content\TestTools\Db" />
+    <file src="content\TestTools\Db\DbTable.cs.pp" target="content\TestTools\Db" />
+    <file src="content\TestTools\Db\DbTableRepository.cs.pp" target="content\TestTools\Db" />
+    <file src="content\AcceptanceTests\Self_Acceptance.cs.pp" target="content\AcceptanceTests" />
+    <file src="content\AcceptanceTests\TestAppStart.cs.pp" target="content\AcceptanceTests" />
+
+    <file src="content\app.config.transform" target="content" />
+  </files>
+</package>
